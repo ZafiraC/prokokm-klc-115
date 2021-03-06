@@ -1,2 +1,2 @@
-# prokokm-klc-115
+# prokom-klc-115
 Praktek Program Komputer Python 2021
